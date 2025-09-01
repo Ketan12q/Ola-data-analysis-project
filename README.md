@@ -10,12 +10,7 @@ The goal of this project is to transform raw ride data into actionable insights 
 - Discover **peak booking times and customer behavior**  
 - Provide **recommendations to reduce cancellations and improve efficiency**  
 
-## 📊 Dashboard Report  
 
-The complete Power BI dashboard has been exported as a PDF for easy viewing.  
-
-📥 [Download Full Dashboard (PDF)] file:///C:/Users/Ketan/Downloads/ola%20(1)%20(1).pdf
- 
 ---
 
 ## 🛠 Tools & Technologies Used
