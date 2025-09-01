@@ -14,7 +14,7 @@ The goal of this project is to transform raw ride data into actionable insights 
 
 The complete Power BI dashboard has been exported as a PDF for easy viewing.  
 
-📥 [Download Full Dashboard (PDF)] <img width="1342" height="731" alt="image" src="https://github.com/user-attachments/assets/fad939f3-eae4-46d5-a8e8-1d21ed0de3e8" />
+📥 [Download Full Dashboard (PDF)] file:///C:/Users/Ketan/Downloads/ola%20(1)%20(1).pdf
  
 ---
 
